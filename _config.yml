@@ -1,0 +1,9 @@
+title: Jaeyeong Yoo
+description: Number theory / Integer partition
+theme: minima
+future: true
+
+header_pages:
+  - cv.md
+  - math.md
+  - game.md
