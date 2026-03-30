@@ -4,6 +4,5 @@ theme: minima
 future: true
 
 header_pages:
-  - cv.md
   - math.md
   - game.md
