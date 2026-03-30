@@ -3,4 +3,4 @@ I write about mathematics.
 
 For researchers 👉 https://anamory.github.io  
 
-Personal Blogs 👉 https://anamory.github.io
+Personal Blogs 👉 https://anamory.github.io/blog
